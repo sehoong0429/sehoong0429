@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi There (:  I'm sehong! 
 <a href="https://github.com/sehoong0429"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 <br>
-## 현재 배우고 있는 것👩🏻‍💻
+### 👩🏻‍💻Studying
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehoong0429&layout=compact)](https://github.com/sehoong0429/github-readme-stats)
+
 <!--
 **sehoong0429/sehoong0429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
