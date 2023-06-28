@@ -7,8 +7,6 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehoong0429&layout=compact)](https://github.com/sehoong0429/github-readme-stats)
-
 <!--
 **sehoong0429/sehoong0429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
